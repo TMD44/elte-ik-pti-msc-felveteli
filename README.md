@@ -12,4 +12,6 @@ Az általa így kiválasztott tárgyakból kérdezi a jelentkezőt a felvételi 
 
 Aki az előzetes tanulmányi eredményeit kéri beszámíttatni, annak is meg kell jelenni a felvételi vizsgán, de szakmai kérdést nem kap.
 
+## Érdemes a [BSc Záróvizsga kidolgozásokat](https://github.com/TMD44/elte-ik-pti-bsc-zarovizsga) is átnézni!
+
 ## Segíts javítani és bővíteni a kidolgozásokat!
